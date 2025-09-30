@@ -1,0 +1,63 @@
+﻿# Unreal Engine VR Project .gitignore (based on Epic template)
+
+# --- Generated Unreal folders ---
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# --- Build files and cache ---
+*.pdb
+*.obj
+*.log
+*.tlog
+*.cache
+*.pch
+*.ilk
+*.exp
+*.iobj
+*.ipdb
+
+# Crash dumps / profiler files
+*.dmp
+*.gpudump
+
+# --- IDE and editor ---
+.vs/
+.vscode/
+.idea/
+
+# RiderLink plugin (generated locally, don’t include in repo)
+Plugins/Developer/RiderLink/
+
+# CLion
+.kdev4/
+
+# --- OS specific junk ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Temporary editor files ---
+*_BuiltData.uasset.tmp
+*_Backup*/
+enc_temp_folder/
+
+# --- Platform specific build files ---
+*.apk
+*.aab
+*.ipa
+
+# --- Keep these files in Git ---
+!.gitignore
+!.gitattributes
+!*.uproject
+!Source/**
+!Config/**
+!Content/**
+!Plugins/**
+
+# But ignore generated stuff inside Plugins
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+Plugins/**/Saved/
