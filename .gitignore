@@ -39,6 +39,7 @@ Thumbs.db
 Desktop.ini
 
 # --- Temporary editor files ---
+*_BuiltData.uasset
 *_BuiltData.uasset.tmp
 *_Backup*/
 enc_temp_folder/
@@ -57,7 +58,18 @@ enc_temp_folder/
 !Content/**
 !Plugins/**
 
+# --- But ignore generated files inside Content ---
+Content/**/Developers/
+Content/**/Collections/
+Content/**/Autosaves/
+Content/**/BuiltData/
+Content/**/DerivedDataCache/
+
 # But ignore generated stuff inside Plugins
 Plugins/**/Binaries/
 Plugins/**/Intermediate/
 Plugins/**/Saved/
+
+# --- Ignore Unreal LFS cache if used ---
+*.umap.tmp
+*.uasset.tmp
