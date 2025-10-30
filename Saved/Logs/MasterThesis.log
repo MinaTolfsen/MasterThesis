@@ -1768,3 +1768,742 @@ The following settings have been applied:
 [2025.10.30-10.46.07:474][ 10]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2025.10.30-10.46.07:475][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
 [2025.10.30-10.46.07:617][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.10.30-10.49.44:557][ 93]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1378.242188
+[2025.10.30-10.49.44:700][110]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-10.49.44:700][111]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1378.375610, Update Interval: 324.395874
+[2025.10.30-10.55.31:617][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1725.309326
+[2025.10.30-10.55.31:776][295]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-10.55.31:776][296]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1725.459595, Update Interval: 307.238373
+[2025.10.30-11.01.32:993][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2086.695557
+[2025.10.30-11.01.33:142][657]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-11.01.33:142][658]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2086.836914, Update Interval: 303.570679
+[2025.10.30-11.07.11:382][241]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2425.103516
+[2025.10.30-11.07.11:548][261]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-11.07.11:548][262]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2425.261963, Update Interval: 317.728821
+[2025.10.30-11.13.23:246][862]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2796.972168
+[2025.10.30-11.13.23:397][880]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-11.13.23:397][881]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2797.113525, Update Interval: 304.627228
+[2025.10.30-11.19.27:344][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3161.090576
+[2025.10.30-11.19.28:344][762]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-11.19.28:344][762]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3161.757080, Update Interval: 316.293213
+[2025.10.30-11.25.17:724][810]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3511.473389
+[2025.10.30-11.25.18:724][813]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-11.25.18:724][813]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3512.139893, Update Interval: 336.162598
+[2025.10.30-11.28.43:517][428]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.30-11.31.40:450][958]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3894.194824
+[2025.10.30-11.31.41:450][961]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-11.31.41:450][961]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3894.861816, Update Interval: 307.003998
+[2025.10.30-11.37.25:161][992]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4238.911133
+[2025.10.30-11.37.26:163][995]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-11.37.26:163][995]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4239.578613, Update Interval: 315.141449
+[2025.10.30-11.43.16:544][ 46]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4590.293945
+[2025.10.30-11.43.17:544][ 49]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-11.43.17:544][ 49]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4590.960938, Update Interval: 325.197906
+[2025.10.30-11.49.30:260][167]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4964.009277
+[2025.10.30-11.49.31:262][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-11.49.31:262][170]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4964.676758, Update Interval: 343.294769
+[2025.10.30-11.55.55:978][324]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5349.727051
+[2025.10.30-11.55.56:978][327]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-11.55.56:978][327]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5350.393066, Update Interval: 300.009155
+[2025.10.30-12.01.48:692][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5702.434082
+[2025.10.30-12.01.49:692][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-12.01.49:692][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5703.100586, Update Interval: 325.029449
+[2025.10.30-12.08.01:743][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6075.484863
+[2025.10.30-12.08.02:744][504]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-12.08.02:744][504]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6076.151855, Update Interval: 350.643036
+[2025.10.30-12.14.42:423][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6476.177734
+[2025.10.30-12.14.43:423][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-12.14.43:423][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6476.844727, Update Interval: 308.756378
+[2025.10.30-12.17.16:775][210]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR/Blueprints/BP_Needle.BP_Needle
+[2025.10.30-12.17.16:775][210]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.10.30-12.17.16:775][210]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_8'.
+[2025.10.30-12.17.57:960][723]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR/Blueprints/BP_NeedleHolder.BP_NeedleHolder
+[2025.10.30-12.17.57:960][723]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.30-12.17.57:962][723]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2025.10.30-12.19.39:964][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.30-12.19.39:968][968]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VR/Maps/VRMap' took 0.059
+[2025.10.30-12.19.39:970][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VR/Blueprints/BP_NeedleHolder] ([2] browsable assets)...
+[2025.10.30-12.19.39:970][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_NeedleHolder]
+[2025.10.30-12.19.39:984][968]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Blueprints/BP_NeedleHolder_Auto2
+[2025.10.30-12.19.39:985][968]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_NeedleHolder_Auto28511D4DF42EA53FA33A834A839DFFD53.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Blueprints/BP_NeedleHolder_Auto2.uasset'
+[2025.10.30-12.19.39:985][968]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.10.30-12.19.54:912][135]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR/Blueprints/VRPawn.VRPawn
+[2025.10.30-12.19.54:912][135]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.30-12.19.54:913][135]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2025.10.30-12.20.38:462][960]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6832.212891
+[2025.10.30-12.20.38:619][972]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-12.20.38:620][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6832.356934, Update Interval: 323.463837
+[2025.10.30-12.26.40:187][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7193.944824
+[2025.10.30-12.26.41:187][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-12.26.41:187][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7194.611328, Update Interval: 304.997101
+[2025.10.30-12.28.43:517][255]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.30-12.29.40:636][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.10.30-12.29.40:637][426]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VR/Maps/VRMap' took 0.044
+[2025.10.30-12.29.40:639][426]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VR/Blueprints/VRPawn] ([2] browsable assets)...
+[2025.10.30-12.29.40:639][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/VRPawn]
+[2025.10.30-12.29.40:710][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Blueprints/VRPawn_Auto3
+[2025.10.30-12.29.40:712][426]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/VRPawn_Auto3B8732CFE417951911F39569E8245870B.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Blueprints/VRPawn_Auto3.uasset'
+[2025.10.30-12.29.40:713][426]LogFileHelpers: Auto-saving content packages took 0.075
+[2025.10.30-12.32.24:904][919]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7538.656738
+[2025.10.30-12.32.25:905][922]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-12.32.25:905][922]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7539.323242, Update Interval: 312.468018
+[2025.10.30-12.33.16:856][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.10.30-12.33.17:730][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-12.33.17:762][384]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_NeedleHolder] ([2] browsable assets)...
+[2025.10.30-12.33.17:768][384]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_NeedleHolder.BP_NeedleHolder]
+[2025.10.30-12.33.17:768][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_NeedleHolder]
+[2025.10.30-12.33.17:768][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/BP_NeedleHolder" FILE="../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_NeedleHolder.uasset" SILENT=true
+[2025.10.30-12.33.17:784][384]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/BP_NeedleHolder
+[2025.10.30-12.33.17:784][384]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_NeedleHolder416F17E943B577602D7050B9B4E100BA.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_NeedleHolder.uasset'
+[2025.10.30-12.33.17:791][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.186 ms (total: 808.262 ms)
+[2025.10.30-12.33.17:844][384]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-12.33.17:844][384]LogContentValidation: Enabled validators:
+[2025.10.30-12.33.17:844][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-12.33.17:844][384]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-12.33.17:844][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-12.33.17:844][384]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-12.33.17:844][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-12.33.17:844][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-12.33.17:844][384]AssetCheck: /Game/VR/Blueprints/BP_NeedleHolder Validating asset
+[2025.10.30-12.33.19:615][530]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.10.30-12.33.19:615][530]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_11'.
+[2025.10.30-12.33.19:675][531]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.10.30-12.33.19:675][531]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2025.10.30-12.33.23:746][811]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/NeedleAndHolder/SM_Holder.SM_Holder
+[2025.10.30-12.33.23:757][811]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.10.30-12.33.23:757][811]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_13'.
+[2025.10.30-12.33.23:764][811]LogStreaming: Display: FlushAsyncLoading(561): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-12.33.23:787][811]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.10.30-12.33.23:794][811]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.10.30-12.33.23:815][811]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.10.30-12.33.23:815][811]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: ================================================
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Total job queries 568, among them cache hits 102 (17.96%), DDC hits 369 (64.96%), Duplicates 84 (14.79%)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Tracking 382 distinct input hashes that result in 243 distinct outputs (63.61%)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: RAM used: 3.47 MiB of 1.60 GiB budget. Usage: 0.21%
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Shaders Compiled: 13
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Jobs assigned 13, completed 13 (100%)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Average time worker was idle: 4927.40 s
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.08 s
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Job execution time: average 1.02 s, max 2.45 s
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Job life time (pending + execution): average 1.06 s, max 2.45
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Shader code size: total 170.82 KiB, numShaders 15, average 11.388 KiB, min 2.891 KiB, max 26.328 KiB
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.71 s
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Jobs were issued in 13 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Average processing rate: 2.28 jobs/sec
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Total thread time: 11.096 s
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Total thread preprocess time: 10.266 s
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Percentage time preprocessing: 92.52%
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Effective parallelization: 1.94 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.162014
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 2.20 sec, max 2.20 sec, min 2.20 sec)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.85 sec, max 1.85 sec, min 1.85 sec)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.98 sec, max 1.00 sec, min 0.97 sec)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.59 sec, max 0.66 sec, min 0.51 sec)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 19.83% of total time (compiled    1 times, average 2.20 sec, max 2.20 sec, min 2.20 sec)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.73% of total time (compiled    2 times, average 0.98 sec, max 1.00 sec, min 0.97 sec)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 16.67% of total time (compiled    1 times, average 1.85 sec, max 1.85 sec, min 1.85 sec)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.59% of total time (compiled    2 times, average 0.59 sec, max 0.66 sec, min 0.51 sec)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.28% of total time (compiled    2 times, average 0.40 sec, max 0.45 sec, min 0.36 sec)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Materials Translated:    176
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Material Translation Only: 0.07 s (60%)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: Material Cache Hits: 54 (31%)
+[2025.10.30-12.35.52:352][647]LogShaderCompilers: Display: ================================================
+[2025.10.30-12.38.28:227][554]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7901.925781
+[2025.10.30-12.38.28:372][569]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-12.38.28:372][569]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7902.060059, Update Interval: 341.159698
+[2025.10.30-12.40.02:569][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.10.30-12.40.02:573][983]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VR/Maps/VRMap' took 0.047
+[2025.10.30-12.40.02:574][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/NeedleAndHolder/SM_Holder] ([1] browsable assets)...
+[2025.10.30-12.40.02:614][983]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/NeedleAndHolder/SM_Holder.SM_Holder]
+[2025.10.30-12.40.02:616][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/NeedleAndHolder/SM_Holder]
+[2025.10.30-12.40.02:628][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/NeedleAndHolder/SM_Holder_Auto4
+[2025.10.30-12.40.02:628][983]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/SM_Holder_Auto4B9EB49EB46A30D2A196317B496AD485B.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/Meshes/NeedleAndHolder/SM_Holder_Auto4.uasset'
+[2025.10.30-12.40.02:629][983]LogFileHelpers: Auto-saving content packages took 0.056
+[2025.10.30-12.41.39:497][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-12.41.39:529][936]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/NeedleAndHolder/SM_Holder] ([1] browsable assets)...
+[2025.10.30-12.41.39:529][936]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/NeedleAndHolder/SM_Holder]
+[2025.10.30-12.41.39:540][936]LogSavePackage: Moving output files for package: /Game/Meshes/NeedleAndHolder/SM_Holder
+[2025.10.30-12.41.39:540][936]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/SM_Holder7F0E0CCA4FD3A60EB4F7889F9B3BD2BE.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/Meshes/NeedleAndHolder/SM_Holder.uasset'
+[2025.10.30-12.41.39:547][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.778 ms (total: 859.041 ms)
+[2025.10.30-12.41.39:593][936]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-12.41.39:593][936]LogContentValidation: Enabled validators:
+[2025.10.30-12.41.39:593][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-12.41.39:593][936]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-12.41.39:593][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-12.41.39:593][936]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-12.41.39:593][936]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-12.41.39:593][936]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-12.41.39:594][936]AssetCheck: /Game/Meshes/NeedleAndHolder/SM_Holder Validating asset
+[2025.10.30-12.41.42:430][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-12.41.42:477][146]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/VRPawn] ([2] browsable assets)...
+[2025.10.30-12.41.42:490][146]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/VRPawn.VRPawn]
+[2025.10.30-12.41.42:490][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/VRPawn]
+[2025.10.30-12.41.42:490][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/VRPawn" FILE="../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/VRPawn.uasset" SILENT=true
+[2025.10.30-12.41.42:562][146]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/VRPawn
+[2025.10.30-12.41.42:563][146]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/VRPawn3FC916024C2F651AC1255DBA82FBF52C.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/VRPawn.uasset'
+[2025.10.30-12.41.42:572][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.286 ms (total: 1.00 sec)
+[2025.10.30-12.41.42:610][146]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-12.41.42:610][146]LogContentValidation: Enabled validators:
+[2025.10.30-12.41.42:610][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-12.41.42:610][146]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-12.41.42:610][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-12.41.42:610][146]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-12.41.42:610][146]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-12.41.42:610][146]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-12.41.42:610][146]AssetCheck: /Game/VR/Blueprints/VRPawn Validating asset
+[2025.10.30-12.44.57:680][195]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8291.181641
+[2025.10.30-12.44.57:854][211]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-12.44.57:854][211]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8291.345703, Update Interval: 331.535400
+[2025.10.30-12.51.15:794][670]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8669.285156
+[2025.10.30-12.51.15:948][681]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-12.51.15:949][681]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8669.429688, Update Interval: 318.483215
+[2025.10.30-12.52.35:590][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.10.30-12.52.35:592][837]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VR/Maps/VRMap' took 0.029
+[2025.10.30-12.52.35:593][837]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_Needle] ([2] browsable assets)...
+[2025.10.30-12.52.35:605][837]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_Needle.BP_Needle]
+[2025.10.30-12.52.35:607][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_Needle]
+[2025.10.30-12.52.35:621][837]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Blueprints/BP_Needle_Auto5
+[2025.10.30-12.52.35:621][837]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_Needle_Auto5336829B5475335638DF8F1949895D7EF.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Blueprints/BP_Needle_Auto5.uasset'
+[2025.10.30-12.52.35:623][837]LogFileHelpers: Auto-saving content packages took 0.030
+[2025.10.30-12.57.27:892][ 39]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9041.327148
+[2025.10.30-12.57.28:057][ 52]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-12.57.28:057][ 52]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9041.480469, Update Interval: 316.690582
+[2025.10.30-13.02.35:918][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.10.30-13.02.35:951][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Maps/VRMap_Auto6
+[2025.10.30-13.02.35:951][161]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/VRMap_Auto60AD4DDB344CCBB23FB1593AFDB8D0B30.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Maps/VRMap_Auto6.umap'
+[2025.10.30-13.02.35:953][161]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VR/Maps/VRMap' took 0.062
+[2025.10.30-13.02.35:953][161]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2025.10.30-13.02.35:954][161]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_Needle] ([2] browsable assets)...
+[2025.10.30-13.02.35:997][161]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_Needle.BP_Needle]
+[2025.10.30-13.02.35:997][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_Needle]
+[2025.10.30-13.02.36:010][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Blueprints/BP_Needle_Auto6
+[2025.10.30-13.02.36:010][161]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_Needle_Auto6F74BB6414C9F850ADE8715AB46B09B69.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Blueprints/BP_Needle_Auto6.uasset'
+[2025.10.30-13.02.36:011][161]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_NeedleHolder] ([2] browsable assets)...
+[2025.10.30-13.02.36:031][161]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_NeedleHolder.BP_NeedleHolder]
+[2025.10.30-13.02.36:031][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_NeedleHolder]
+[2025.10.30-13.02.36:046][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Blueprints/BP_NeedleHolder_Auto6
+[2025.10.30-13.02.36:047][161]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_NeedleHolder_Auto6B9DEC7944FBF0702C8689BB277453686.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Blueprints/BP_NeedleHolder_Auto6.uasset'
+[2025.10.30-13.02.36:047][161]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/NeedleAndHolder/SM_Holder] ([1] browsable assets)...
+[2025.10.30-13.02.36:047][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/NeedleAndHolder/SM_Holder]
+[2025.10.30-13.02.36:056][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/NeedleAndHolder/SM_Holder_Auto6
+[2025.10.30-13.02.36:056][161]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/SM_Holder_Auto640060C8E4A89F6F6E16740BDEF6E9E86.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/Meshes/NeedleAndHolder/SM_Holder_Auto6.uasset'
+[2025.10.30-13.02.36:056][161]LogFileHelpers: Auto-saving content packages took 0.103
+[2025.10.30-13.02.43:035][291]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-13.02.43:092][291]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/NeedleAndHolder/SM_Holder] ([1] browsable assets)...
+[2025.10.30-13.02.43:093][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/NeedleAndHolder/SM_Holder]
+[2025.10.30-13.02.43:104][291]LogSavePackage: Moving output files for package: /Game/Meshes/NeedleAndHolder/SM_Holder
+[2025.10.30-13.02.43:104][291]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/SM_Holder4F2366A24F050A3E1C5151A467F9A558.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/Meshes/NeedleAndHolder/SM_Holder.uasset'
+[2025.10.30-13.02.43:110][291]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.485 ms (total: 1.07 sec)
+[2025.10.30-13.02.43:159][291]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-13.02.43:159][291]LogContentValidation: Enabled validators:
+[2025.10.30-13.02.43:159][291]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-13.02.43:159][291]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-13.02.43:159][291]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-13.02.43:159][291]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-13.02.43:159][291]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-13.02.43:159][291]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-13.02.43:159][291]AssetCheck: /Game/Meshes/NeedleAndHolder/SM_Holder Validating asset
+[2025.10.30-13.03.36:913][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9410.514648
+[2025.10.30-13.03.37:913][275]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-13.03.37:914][275]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9411.181641, Update Interval: 324.720001
+[2025.10.30-13.05.53:679][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.10.30-13.05.54:296][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-13.05.54:327][775]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_Needle] ([2] browsable assets)...
+[2025.10.30-13.05.54:334][775]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_Needle.BP_Needle]
+[2025.10.30-13.05.54:334][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_Needle]
+[2025.10.30-13.05.54:334][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/BP_Needle" FILE="../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_Needle.uasset" SILENT=true
+[2025.10.30-13.05.54:347][775]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/BP_Needle
+[2025.10.30-13.05.54:349][775]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_NeedleB186517443C86931D70FD69A4F299756.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_Needle.uasset'
+[2025.10.30-13.05.54:356][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.795 ms (total: 1.13 sec)
+[2025.10.30-13.05.54:407][775]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-13.05.54:407][775]LogContentValidation: Enabled validators:
+[2025.10.30-13.05.54:407][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-13.05.54:407][775]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-13.05.54:407][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-13.05.54:407][775]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-13.05.54:407][775]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-13.05.54:407][775]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-13.05.54:407][775]AssetCheck: /Game/VR/Blueprints/BP_Needle Validating asset
+[2025.10.30-13.05.57:534][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.30-13.05.58:085][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-13.05.58:127][  6]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_NeedleHolder] ([2] browsable assets)...
+[2025.10.30-13.05.58:133][  6]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_NeedleHolder.BP_NeedleHolder]
+[2025.10.30-13.05.58:133][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_NeedleHolder]
+[2025.10.30-13.05.58:133][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/BP_NeedleHolder" FILE="../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_NeedleHolder.uasset" SILENT=true
+[2025.10.30-13.05.58:149][  6]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/BP_NeedleHolder
+[2025.10.30-13.05.58:149][  6]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_NeedleHolder2A583DE346219B8B5EA29BA6A0BE19D3.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_NeedleHolder.uasset'
+[2025.10.30-13.05.58:158][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.951 ms (total: 1.20 sec)
+[2025.10.30-13.05.58:208][  6]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-13.05.58:208][  6]LogContentValidation: Enabled validators:
+[2025.10.30-13.05.58:208][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-13.05.58:208][  6]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-13.05.58:208][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-13.05.58:208][  6]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-13.05.58:208][  6]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-13.05.58:208][  6]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-13.05.58:208][  6]AssetCheck: /Game/VR/Blueprints/BP_NeedleHolder Validating asset
+[2025.10.30-13.09.37:564][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9771.016602
+[2025.10.30-13.09.37:734][281]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-13.09.37:734][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9771.174805, Update Interval: 345.598328
+[2025.10.30-13.12.57:201][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.30-13.12.57:231][ 30]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Maps/VRMap_Auto7
+[2025.10.30-13.12.57:231][ 30]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/VRMap_Auto7F33D2C51406FE89C5BABF3963B5313A0.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Maps/VRMap_Auto7.umap'
+[2025.10.30-13.12.57:233][ 30]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VR/Maps/VRMap' took 0.059
+[2025.10.30-13.12.57:233][ 30]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2025.10.30-13.12.57:234][ 30]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_NeedleHolder] ([2] browsable assets)...
+[2025.10.30-13.12.57:271][ 30]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_NeedleHolder.BP_NeedleHolder]
+[2025.10.30-13.12.57:271][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_NeedleHolder]
+[2025.10.30-13.12.57:287][ 30]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Blueprints/BP_NeedleHolder_Auto7
+[2025.10.30-13.12.57:288][ 30]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_NeedleHolder_Auto764DB88F84DC96C89790CC0B23E8AC824.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Blueprints/BP_NeedleHolder_Auto7.uasset'
+[2025.10.30-13.12.57:290][ 30]LogFileHelpers: Auto-saving content packages took 0.056
+[2025.10.30-13.15.28:919][917]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UBlueprintInstancedStructLibrary::IsInstancedStructValid' [The specified module could not be found.]
+[2025.10.30-13.16.13:892][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10167.082031
+[2025.10.30-13.16.14:064][264]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-13.16.14:064][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10167.237305, Update Interval: 308.322388
+[2025.10.30-13.21.56:411][369]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10509.524414
+[2025.10.30-13.21.57:410][372]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-13.21.57:410][372]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10510.190430, Update Interval: 340.035400
+[2025.10.30-13.23.00:836][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.10.30-13.23.00:839][255]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VR/Maps/VRMap' took 0.030
+[2025.10.30-13.23.00:839][255]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_NeedleHolder] ([2] browsable assets)...
+[2025.10.30-13.23.00:845][255]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_NeedleHolder.BP_NeedleHolder]
+[2025.10.30-13.23.00:845][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_NeedleHolder]
+[2025.10.30-13.23.00:862][255]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Blueprints/BP_NeedleHolder_Auto8
+[2025.10.30-13.23.00:862][255]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_NeedleHolder_Auto8ACF98CDB4F49433C7F2C6CBE9DECAA04.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Blueprints/BP_NeedleHolder_Auto8.uasset'
+[2025.10.30-13.23.00:864][255]LogFileHelpers: Auto-saving content packages took 0.025
+[2025.10.30-13.25.45:777][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.30-13.25.46:324][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-13.25.46:375][294]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_Needle] ([2] browsable assets)...
+[2025.10.30-13.25.46:380][294]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_Needle.BP_Needle]
+[2025.10.30-13.25.46:380][294]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_Needle]
+[2025.10.30-13.25.46:380][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/BP_Needle" FILE="../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_Needle.uasset" SILENT=true
+[2025.10.30-13.25.46:394][294]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/BP_Needle
+[2025.10.30-13.25.46:394][294]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_Needle23EF12C4411231FAF8F94790CD1577E4.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_Needle.uasset'
+[2025.10.30-13.25.46:402][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.803 ms (total: 1.28 sec)
+[2025.10.30-13.25.46:457][294]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-13.25.46:457][294]LogContentValidation: Enabled validators:
+[2025.10.30-13.25.46:457][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-13.25.46:457][294]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-13.25.46:457][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-13.25.46:457][294]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-13.25.46:457][294]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-13.25.46:457][294]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-13.25.46:457][294]AssetCheck: /Game/VR/Blueprints/BP_Needle Validating asset
+[2025.10.30-13.28.25:475][838]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10898.528320
+[2025.10.30-13.28.26:476][841]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-13.28.26:476][841]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10899.195312, Update Interval: 355.685913
+[2025.10.30-13.28.43:518][893]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.30-13.33.34:251][725]LogEditorTransaction: Undo Move Node
+[2025.10.30-13.33.35:032][753]LogEditorTransaction: Undo Promote To Variable
+[2025.10.30-13.35.11:748][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11304.839844
+[2025.10.30-13.35.11:916][633]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-13.35.11:916][633]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11304.995117, Update Interval: 338.669403
+[2025.10.30-13.36.51:935][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.30-13.36.51:966][925]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Maps/VRMap_Auto9
+[2025.10.30-13.36.51:966][925]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/VRMap_Auto9A518A4ED47D0773547AC23A8C26300CC.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Maps/VRMap_Auto9.umap'
+[2025.10.30-13.36.51:967][925]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VR/Maps/VRMap' took 0.060
+[2025.10.30-13.36.51:967][925]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2025.10.30-13.36.51:967][925]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_NeedleHolder] ([2] browsable assets)...
+[2025.10.30-13.36.52:006][925]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_NeedleHolder.BP_NeedleHolder]
+[2025.10.30-13.36.52:006][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_NeedleHolder]
+[2025.10.30-13.36.52:022][925]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Blueprints/BP_NeedleHolder_Auto9
+[2025.10.30-13.36.52:022][925]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_NeedleHolder_Auto914572D4843FB8127348630AB595817C4.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Blueprints/BP_NeedleHolder_Auto9.uasset'
+[2025.10.30-13.36.52:024][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VR/Input/Actions/IA_TriggerGrab_Right_Released] ([1] browsable assets)...
+[2025.10.30-13.36.52:024][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Input/Actions/IA_TriggerGrab_Right_Released]
+[2025.10.30-13.36.52:029][925]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Input/Actions/IA_TriggerGrab_Right_Released_Auto9
+[2025.10.30-13.36.52:029][925]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/IA_TriggerGrab_Right_Released_Au284972EA4F171BC20A94CCA6D4BD7AA6.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Input/Actions/IA_TriggerGrab_Right_Released_Auto9.uasset'
+[2025.10.30-13.36.52:031][925]LogFileHelpers: Auto-saving content packages took 0.064
+[2025.10.30-13.41.36:554][779]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11689.533203
+[2025.10.30-13.41.37:554][782]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-13.41.37:554][782]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11690.199219, Update Interval: 354.083679
+[2025.10.30-13.48.28:274][ 14]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12101.107422
+[2025.10.30-13.48.29:274][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-13.48.29:274][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12101.774414, Update Interval: 353.440979
+[2025.10.30-13.55.06:990][210]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12499.723633
+[2025.10.30-13.55.07:990][213]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-13.55.07:990][213]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12500.389648, Update Interval: 326.417419
+[2025.10.30-14.01.24:716][343]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12877.367188
+[2025.10.30-14.01.25:715][346]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.01.25:715][346]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12878.033203, Update Interval: 309.488831
+[2025.10.30-14.03.47:516][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.10.30-14.03.47:520][937]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VR/Maps/VRMap' took 0.029
+[2025.10.30-14.03.47:520][937]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_NeedleHolder] ([2] browsable assets)...
+[2025.10.30-14.03.47:560][937]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_NeedleHolder.BP_NeedleHolder]
+[2025.10.30-14.03.47:560][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_NeedleHolder]
+[2025.10.30-14.03.47:577][937]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Blueprints/BP_NeedleHolder_Auto0
+[2025.10.30-14.03.47:577][937]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_NeedleHolder_Auto0CD2C227B4146AFF8B6CFAC8106C62059.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Blueprints/BP_NeedleHolder_Auto0.uasset'
+[2025.10.30-14.03.47:579][937]LogFileHelpers: Auto-saving content packages took 0.059
+[2025.10.30-14.07.25:368][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13237.962891
+[2025.10.30-14.07.25:535][188]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.07.25:535][188]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13238.117188, Update Interval: 310.354919
+[2025.10.30-14.13.07:624][916]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13579.900391
+[2025.10.30-14.13.08:624][919]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.13.08:624][919]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13580.567383, Update Interval: 348.277222
+[2025.10.30-14.13.58:942][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.10.30-14.13.58:980][ 79]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Maps/VRMap_Auto1
+[2025.10.30-14.13.58:980][ 79]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/VRMap_Auto18BAD2AF147915B2D4E4EBABD75DE4215.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Maps/VRMap_Auto1.umap'
+[2025.10.30-14.13.58:982][ 79]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VR/Maps/VRMap' took 0.072
+[2025.10.30-14.13.58:982][ 79]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2025.10.30-14.13.58:983][ 79]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_NeedleHolder] ([2] browsable assets)...
+[2025.10.30-14.13.58:989][ 79]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_NeedleHolder.BP_NeedleHolder]
+[2025.10.30-14.13.58:989][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_NeedleHolder]
+[2025.10.30-14.13.59:008][ 79]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Blueprints/BP_NeedleHolder_Auto1
+[2025.10.30-14.13.59:008][ 79]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_NeedleHolder_Auto122B5B24641041CEC69404CB3666C1D98.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Blueprints/BP_NeedleHolder_Auto1.uasset'
+[2025.10.30-14.13.59:010][ 79]LogFileHelpers: Auto-saving content packages took 0.028
+[2025.10.30-14.14.15:157][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.30-14.14.15:862][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.14.15:924][277]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_NeedleHolder] ([2] browsable assets)...
+[2025.10.30-14.14.15:930][277]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_NeedleHolder.BP_NeedleHolder]
+[2025.10.30-14.14.15:930][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_NeedleHolder]
+[2025.10.30-14.14.15:930][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/BP_NeedleHolder" FILE="../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_NeedleHolder.uasset" SILENT=true
+[2025.10.30-14.14.15:951][277]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/BP_NeedleHolder
+[2025.10.30-14.14.15:951][277]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_NeedleHolderEFF003F74A593FEABB05B5A4421AA3D0.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_NeedleHolder.uasset'
+[2025.10.30-14.14.15:960][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.985 ms (total: 1.38 sec)
+[2025.10.30-14.14.16:006][277]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-14.14.16:006][277]LogContentValidation: Enabled validators:
+[2025.10.30-14.14.16:006][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.14.16:006][277]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.14.16:006][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.14.16:006][277]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.14.16:006][277]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.14.16:006][277]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.14.16:006][277]AssetCheck: /Game/VR/Blueprints/BP_NeedleHolder Validating asset
+[2025.10.30-14.19.48:691][324]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13980.909180
+[2025.10.30-14.19.49:692][327]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.19.49:692][327]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13981.576172, Update Interval: 334.930267
+[2025.10.30-14.23.59:465][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.10.30-14.23.59:499][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Maps/VRMap_Auto2
+[2025.10.30-14.23.59:499][763]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/VRMap_Auto20806306E4F07ACFBA2E4EEAD14E6A458.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Maps/VRMap_Auto2.umap'
+[2025.10.30-14.23.59:500][763]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VR/Maps/VRMap' took 0.064
+[2025.10.30-14.23.59:500][763]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2025.10.30-14.23.59:502][763]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/VRPawn] ([2] browsable assets)...
+[2025.10.30-14.23.59:541][763]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/VRPawn.VRPawn]
+[2025.10.30-14.23.59:541][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/VRPawn]
+[2025.10.30-14.23.59:615][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Blueprints/VRPawn_Auto2
+[2025.10.30-14.23.59:615][763]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/VRPawn_Auto24DC79F6142842084D63AE08E8F9BED1E.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Blueprints/VRPawn_Auto2.uasset'
+[2025.10.30-14.23.59:617][763]LogFileHelpers: Auto-saving content packages took 0.116
+[2025.10.30-14.26.15:738][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14367.745117
+[2025.10.30-14.26.16:738][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.26.16:738][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14368.411133, Update Interval: 358.514954
+[2025.10.30-14.28.43:519][616]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.30-14.32.50:464][356]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14762.416992
+[2025.10.30-14.32.51:464][359]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.32.51:464][359]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14763.083008, Update Interval: 356.205933
+[2025.10.30-14.39.35:073][652]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15166.838867
+[2025.10.30-14.39.35:220][663]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.39.35:220][663]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15166.975586, Update Interval: 317.882629
+[2025.10.30-14.40.54:647][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.30-14.40.54:652][764]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VR/Maps/VRMap' took 0.031
+[2025.10.30-14.40.54:652][764]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/VRPawn] ([2] browsable assets)...
+[2025.10.30-14.40.54:694][764]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/VRPawn.VRPawn]
+[2025.10.30-14.40.54:694][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/VRPawn]
+[2025.10.30-14.40.54:769][764]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Blueprints/VRPawn_Auto3
+[2025.10.30-14.40.54:769][764]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/VRPawn_Auto31D7A7521405548E5FF6725810C753A5B.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/Autosaves/Game/VR/Blueprints/VRPawn_Auto3.uasset'
+[2025.10.30-14.40.54:770][764]LogFileHelpers: Auto-saving content packages took 0.118
+[2025.10.30-14.44.43:723][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.10.30-14.44.44:387][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.44.44:440][479]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/VRPawn] ([2] browsable assets)...
+[2025.10.30-14.44.44:444][479]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/VRPawn.VRPawn]
+[2025.10.30-14.44.44:444][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/VRPawn]
+[2025.10.30-14.44.44:444][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/VRPawn" FILE="../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/VRPawn.uasset" SILENT=true
+[2025.10.30-14.44.44:518][479]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/VRPawn
+[2025.10.30-14.44.44:519][479]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/VRPawn69D156B842237640CFAB0B8120AE77AB.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/VRPawn.uasset'
+[2025.10.30-14.44.44:527][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.117 ms (total: 1.52 sec)
+[2025.10.30-14.44.44:587][479]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-14.44.44:587][479]LogContentValidation: Enabled validators:
+[2025.10.30-14.44.44:587][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.44.44:587][479]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.44.44:587][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.44.44:587][479]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.44.44:587][479]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.44.44:587][479]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.44.44:587][479]AssetCheck: /Game/VR/Blueprints/VRPawn Validating asset
+[2025.10.30-14.44.45:536][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.30-14.44.46:083][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.44.46:138][576]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_Needle] ([2] browsable assets)...
+[2025.10.30-14.44.46:144][576]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_Needle.BP_Needle]
+[2025.10.30-14.44.46:144][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_Needle]
+[2025.10.30-14.44.46:144][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/BP_Needle" FILE="../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_Needle.uasset" SILENT=true
+[2025.10.30-14.44.46:157][576]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/BP_Needle
+[2025.10.30-14.44.46:159][576]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_NeedleB4004EEE43812EE6281AD6AB3E4299A5.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_Needle.uasset'
+[2025.10.30-14.44.46:166][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.051 ms (total: 1.60 sec)
+[2025.10.30-14.44.46:220][576]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-14.44.46:220][576]LogContentValidation: Enabled validators:
+[2025.10.30-14.44.46:220][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.44.46:220][576]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.44.46:220][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.44.46:220][576]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.44.46:220][576]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.44.46:220][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.44.46:222][576]AssetCheck: /Game/VR/Blueprints/BP_Needle Validating asset
+[2025.10.30-14.44.47:424][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.30-14.44.47:954][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.44.47:987][686]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_NeedleHolder] ([2] browsable assets)...
+[2025.10.30-14.44.47:993][686]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_NeedleHolder.BP_NeedleHolder]
+[2025.10.30-14.44.47:993][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_NeedleHolder]
+[2025.10.30-14.44.47:993][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/BP_NeedleHolder" FILE="../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_NeedleHolder.uasset" SILENT=true
+[2025.10.30-14.44.48:012][686]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/BP_NeedleHolder
+[2025.10.30-14.44.48:014][686]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_NeedleHolder32CBD6134B5CF565B15EACBD00618CFE.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_NeedleHolder.uasset'
+[2025.10.30-14.44.48:021][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.267 ms (total: 1.67 sec)
+[2025.10.30-14.44.48:071][686]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-14.44.48:071][686]LogContentValidation: Enabled validators:
+[2025.10.30-14.44.48:071][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.44.48:071][686]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.44.48:071][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.44.48:071][686]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.44.48:071][686]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.44.48:071][686]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.44.48:071][686]AssetCheck: /Game/VR/Blueprints/BP_NeedleHolder Validating asset
+[2025.10.30-14.44.49:177][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.30-14.44.49:675][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.44.49:722][752]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/VRPawn] ([2] browsable assets)...
+[2025.10.30-14.44.49:727][752]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/VRPawn.VRPawn]
+[2025.10.30-14.44.49:727][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/VRPawn]
+[2025.10.30-14.44.49:727][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/VRPawn" FILE="../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/VRPawn.uasset" SILENT=true
+[2025.10.30-14.44.49:800][752]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/VRPawn
+[2025.10.30-14.44.49:802][752]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/VRPawn2B0BFE5344501923BE7C1697DA5792B2.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/VRPawn.uasset'
+[2025.10.30-14.44.49:809][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.133 ms (total: 1.80 sec)
+[2025.10.30-14.44.49:872][752]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-14.44.49:872][752]LogContentValidation: Enabled validators:
+[2025.10.30-14.44.49:872][752]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.44.49:872][752]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.44.49:872][752]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.44.49:872][752]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.44.49:872][752]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.44.49:872][752]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.44.49:872][752]AssetCheck: /Game/VR/Blueprints/VRPawn Validating asset
+[2025.10.30-14.44.51:440][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.44.51:489][882]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/NeedleAndHolder/SM_Holder] ([1] browsable assets)...
+[2025.10.30-14.44.51:489][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/NeedleAndHolder/SM_Holder]
+[2025.10.30-14.44.51:500][882]LogSavePackage: Moving output files for package: /Game/Meshes/NeedleAndHolder/SM_Holder
+[2025.10.30-14.44.51:500][882]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/SM_Holder18E07E484EA45338099EA7AEC74EF4BD.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/Meshes/NeedleAndHolder/SM_Holder.uasset'
+[2025.10.30-14.44.51:507][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.692 ms (total: 1.87 sec)
+[2025.10.30-14.44.51:554][882]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-14.44.51:555][882]LogContentValidation: Enabled validators:
+[2025.10.30-14.44.51:555][882]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.44.51:555][882]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.44.51:555][882]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.44.51:555][882]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.44.51:555][882]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.44.51:555][882]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.44.51:555][882]AssetCheck: /Game/Meshes/NeedleAndHolder/SM_Holder Validating asset
+[2025.10.30-14.44.52:658][978]LogSlate: Window 'SM_Holder' being destroyed
+[2025.10.30-14.44.52:664][978]LogSlate: Window 'SM_Holder' being destroyed
+[2025.10.30-14.44.52:671][978]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.44.52:671][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.44.52:719][978]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.30-14.44.52:719][978]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.44.52:719][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.44.52:776][978]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.30-14.44.52:776][978]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.44.52:777][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.44.52:892][978]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.44.52:892][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.44.52:945][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.30-14.45.18:767][ 64]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.30-14.45.18:776][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-14.45.18:776][ 64]LogPlayLevel: Display: Creating online subsystem for client :Context_17
+[2025.10.30-14.45.18:779][ 64]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.10.30-14.45.18:794][ 65]LogPlayLevel: Creating play world package: /Game/VR/Maps/UEDPIE_0_VRMap
+[2025.10.30-14.45.18:803][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007886s)
+[2025.10.30-14.45.18:803][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR/Maps/VRMap.VRMap to /Game/VR/Maps/UEDPIE_0_VRMap.VRMap (0.007938s)
+[2025.10.30-14.45.18:827][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.30-14.45.18:830][ 65]LogChaosDD: Creating Chaos Debug Draw Scene for world VRMap
+[2025.10.30-14.45.18:832][ 65]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VR/Maps/UEDPIE_0_VRMap.VRMap'.
+[2025.10.30-14.45.18:832][ 65]LogPlayLevel: PIE: World Init took: (0.001701s)
+[2025.10.30-14.45.18:833][ 65]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.10.30-14.45.18:833][ 65]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-14.45.18:833][ 65]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-14.45.18:833][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-14.45.18:833][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-14.45.18:833][ 65]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-14.45.18:833][ 65]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-14.45.18:833][ 65]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-14.45.18:833][ 65]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-14.45.18:833][ 65]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-14.45.18:833][ 65]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-14.45.18:833][ 65]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-14.45.18:834][ 65]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-14.45.18:847][ 65]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.10.30-14.45.18:849][ 65]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-14.45.18:849][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-14.45.18:849][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-14.45.18:849][ 65]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.10.30-14.45.18:849][ 65]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.10.30-14.45.18:852][ 65]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.10.30-14.45.18:852][ 65]LogInit: FAudioDevice initialized with ID 4.
+[2025.10.30-14.45.18:852][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.10.30-14.45.18:852][ 65]LogAudio: Display: Audio Device (ID: 4) registered with world 'VRMap'.
+[2025.10.30-14.45.18:852][ 65]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.30-14.45.18:864][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.45.19:012][ 65]LogLoad: Game class is 'VRGameMode_C'
+[2025.10.30-14.45.19:016][ 65]LogWorld: Bringing World /Game/VR/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2025.10.30-15.45.19
+[2025.10.30-14.45.19:018][ 65]LogWorld: Bringing up level for play took: 0.004733
+[2025.10.30-14.45.19:018][ 65]LogStreaming: Display: FlushAsyncLoading(567): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.45.19:021][ 65]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.30-14.45.19:022][ 65]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.30-14.45.19:024][ 65]xr.SecondaryScreenPercentage.HMDRenderTarget = "100"
+[2025.10.30-14.45.19:033][ 65]PIE: Server logged in
+[2025.10.30-14.45.19:035][ 65]PIE: Play in editor total start time 0.259 seconds.
+[2025.10.30-14.45.19:041][ 65]LogHMD: Warning: Default Mapping Contexts contains an Input Mapping Context set to "None", ignoring while building OpenXR actions.
+[2025.10.30-14.45.19:041][ 65]LogHMD: Warning: Default Mapping Contexts contains an Input Mapping Context set to "None", ignoring while building OpenXR actions.
+[2025.10.30-14.45.19:041][ 65]LogHMD: Warning: Default Mapping Contexts contains an Input Mapping Context set to "None", ignoring while building OpenXR actions.
+[2025.10.30-14.45.19:041][ 65]LogHMD: Warning: Default Mapping Contexts contains an Input Mapping Context set to "None", ignoring while building OpenXR actions.
+[2025.10.30-14.45.19:041][ 65]LogHMD: Warning: Default Mapping Contexts contains an Input Mapping Context set to "None", ignoring while building OpenXR actions.
+[2025.10.30-14.45.19:041][ 65]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.30-14.45.19:107][ 65]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.30-14.45.19:160][ 65]LogProfilingDebugging: Warning: No layer resource or HMD swapchain available for stereo debug layer
+[2025.10.30-14.45.20:840][187]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.30-14.45.21:352][224]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.30-14.45.21:877][262]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.30-14.45.25:616][531]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15517.319336
+[2025.10.30-14.45.25:767][542]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.45.25:767][542]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15517.458984, Update Interval: 318.160950
+[2025.10.30-14.45.29:184][788]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.30-14.45.29:683][824]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.30-14.45.30:140][857]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.30-14.46.00:514][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.46.00:514][355]LogWorld: BeginTearingDown for /Game/VR/Maps/UEDPIE_0_VRMap
+[2025.10.30-14.46.00:514][355]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.30-14.46.00:556][355]LogSlate: Window 'MasterThesis Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.113.0)' being destroyed
+[2025.10.30-14.46.00:557][355]LogWorld: UWorld::CleanupWorld for VRMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.46.00:559][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.46.00:560][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-14.46.00:566][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.46.00:589][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.30-14.46.00:589][355]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.10.30-14.46.00:592][355]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.10.30-14.46.00:597][355]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.30-14.46.00:597][355]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.30-14.46.00:599][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.30-14.46.00:744][356]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.10.30-14.46.07:503][107]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR/Blueprints/BP_NeedleHolder.BP_NeedleHolder
+[2025.10.30-14.46.07:504][107]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.10.30-14.46.07:504][107]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2025.10.30-14.46.17:206][756]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR/Blueprints/BP_Needle.BP_Needle
+[2025.10.30-14.46.17:206][756]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.10.30-14.46.17:206][756]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2025.10.30-14.46.28:509][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.30-14.46.28:979][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.46.29:038][576]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VR/Blueprints/BP_Needle] ([2] browsable assets)...
+[2025.10.30-14.46.29:044][576]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR/Blueprints/BP_Needle.BP_Needle]
+[2025.10.30-14.46.29:044][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Blueprints/BP_Needle]
+[2025.10.30-14.46.29:044][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/BP_Needle" FILE="../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_Needle.uasset" SILENT=true
+[2025.10.30-14.46.29:057][576]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/BP_Needle
+[2025.10.30-14.46.29:059][576]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/BP_NeedleFF7412FC4011D35BEEB13DB806CC9600.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Blueprints/BP_Needle.uasset'
+[2025.10.30-14.46.29:066][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.629 ms (total: 1.96 sec)
+[2025.10.30-14.46.29:120][576]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-14.46.29:120][576]LogContentValidation: Enabled validators:
+[2025.10.30-14.46.29:120][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.46.29:120][576]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.46.29:120][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.46.29:120][576]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.46.29:120][576]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.46.29:120][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.46.29:120][576]AssetCheck: /Game/VR/Blueprints/BP_Needle Validating asset
+[2025.10.30-14.46.32:546][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.46.32:605][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Maps/VRMap" FILE="../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Maps/VRMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.30-14.46.32:652][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.30-14.46.32:687][889]LogSavePackage: Moving output files for package: /Game/VR/Maps/VRMap
+[2025.10.30-14.46.32:687][889]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Saved/VRMap976362274DA9E3E46A6EE180836F9634.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/MasterThesis/Content/VR/Maps/VRMap.umap'
+[2025.10.30-14.46.32:698][889]LogFileHelpers: All files are already saved.
+[2025.10.30-14.46.32:698][889]LogFileHelpers: Saving map 'VRMap' took 0.093
+[2025.10.30-14.46.32:705][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.809 ms (total: 2.12 sec)
+[2025.10.30-14.46.32:739][889]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-14.46.32:739][889]LogContentValidation: Enabled validators:
+[2025.10.30-14.46.32:739][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.46.32:739][889]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.46.32:739][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.46.32:739][889]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.46.32:739][889]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.46.32:739][889]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.46.32:739][889]AssetCheck: /Game/VR/Maps/VRMap Validating asset
+[2025.10.30-14.48.32:626][173]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.30-14.48.32:634][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-14.48.32:634][173]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2025.10.30-14.48.32:636][173]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.10.30-14.48.32:652][174]LogPlayLevel: Creating play world package: /Game/VR/Maps/UEDPIE_0_VRMap
+[2025.10.30-14.48.32:660][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007649s)
+[2025.10.30-14.48.32:660][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR/Maps/VRMap.VRMap to /Game/VR/Maps/UEDPIE_0_VRMap.VRMap (0.007686s)
+[2025.10.30-14.48.32:688][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.30-14.48.32:691][174]LogChaosDD: Creating Chaos Debug Draw Scene for world VRMap
+[2025.10.30-14.48.32:691][174]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VR/Maps/UEDPIE_0_VRMap.VRMap'.
+[2025.10.30-14.48.32:692][174]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2025.10.30-14.48.32:692][174]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.30-14.48.32:692][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-14.48.32:692][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-14.48.32:692][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-14.48.32:692][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-14.48.32:692][174]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-14.48.32:692][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-14.48.32:692][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-14.48.32:692][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-14.48.32:692][174]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-14.48.32:692][174]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-14.48.32:692][174]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-14.48.32:695][174]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-14.48.32:707][174]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.10.30-14.48.32:707][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-14.48.32:707][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-14.48.32:707][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-14.48.32:708][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.30-14.48.32:708][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.30-14.48.32:710][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.30-14.48.32:710][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.30-14.48.32:710][174]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.30-14.48.32:710][174]LogAudio: Display: Audio Device (ID: 5) registered with world 'VRMap'.
+[2025.10.30-14.48.32:710][174]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.30-14.48.32:721][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.48.32:862][174]LogLoad: Game class is 'VRGameMode_C'
+[2025.10.30-14.48.32:866][174]LogWorld: Bringing World /Game/VR/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2025.10.30-15.48.32
+[2025.10.30-14.48.32:866][174]LogWorld: Bringing up level for play took: 0.004080
+[2025.10.30-14.48.32:867][174]LogStreaming: Display: FlushAsyncLoading(577): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.48.32:869][174]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.30-14.48.32:872][174]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.30-14.48.32:874][174]xr.SecondaryScreenPercentage.HMDRenderTarget = "100"
+[2025.10.30-14.48.32:884][174]PIE: Server logged in
+[2025.10.30-14.48.32:890][174]PIE: Play in editor total start time 0.256 seconds.
+[2025.10.30-14.48.32:895][174]LogHMD: Warning: Default Mapping Contexts contains an Input Mapping Context set to "None", ignoring while building OpenXR actions.
+[2025.10.30-14.48.32:895][174]LogHMD: Warning: Default Mapping Contexts contains an Input Mapping Context set to "None", ignoring while building OpenXR actions.
+[2025.10.30-14.48.32:895][174]LogHMD: Warning: Default Mapping Contexts contains an Input Mapping Context set to "None", ignoring while building OpenXR actions.
+[2025.10.30-14.48.32:895][174]LogHMD: Warning: Default Mapping Contexts contains an Input Mapping Context set to "None", ignoring while building OpenXR actions.
+[2025.10.30-14.48.32:895][174]LogHMD: Warning: Default Mapping Contexts contains an Input Mapping Context set to "None", ignoring while building OpenXR actions.
+[2025.10.30-14.48.32:895][174]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.30-14.48.32:954][174]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.30-14.48.33:009][174]LogProfilingDebugging: Warning: No layer resource or HMD swapchain available for stereo debug layer
+[2025.10.30-14.48.34:532][288]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.30-14.48.35:073][327]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.30-14.48.35:393][350]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.30-14.48.35:684][371]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.30-14.48.35:949][390]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.30-14.48.36:268][413]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.30-14.48.36:600][437]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.30-14.48.37:101][473]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.30-14.49.33:895][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.49.33:895][806]LogWorld: BeginTearingDown for /Game/VR/Maps/UEDPIE_0_VRMap
+[2025.10.30-14.49.33:895][806]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.30-14.49.33:940][806]LogSlate: Window 'MasterThesis Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.113.0)' being destroyed
+[2025.10.30-14.49.33:942][806]LogWorld: UWorld::CleanupWorld for VRMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.49.33:944][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.49.33:944][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-14.49.33:950][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.49.33:977][806]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.30-14.49.33:977][806]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.10.30-14.49.33:979][806]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.10.30-14.49.33:984][806]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.30-14.49.33:984][806]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.30-14.49.33:986][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.10.30-14.49.34:130][807]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.10.30-14.51.31:091][829]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15882.501953
+[2025.10.30-14.51.31:242][847]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.51.31:242][848]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15882.642578, Update Interval: 325.199738
