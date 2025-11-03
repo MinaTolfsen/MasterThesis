@@ -6,6 +6,9 @@ DerivedDataCache/
 Intermediate/
 Saved/
 
+# -- Unreal log files ---
+**/*.log
+
 # --- Build files and cache ---
 *.pdb
 *.obj
