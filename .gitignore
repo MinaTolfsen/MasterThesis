@@ -6,6 +6,7 @@ DerivedDataCache/
 Intermediate/
 Saved/
 Build/
+Quest/
 
 # -- Unreal log files ---
 **/*.log
