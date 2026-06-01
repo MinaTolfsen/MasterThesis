@@ -4,6 +4,8 @@
 **Kaja Wollebæk Skråmo & Mina Marie Bye Tolfsen**
 Master's thesis in Software Engineering – HVL / UiB, June 2026
 
+A full demonstration of the developed VR application is available at the following link: [Perineal Suturing Simulation](https://youtu.be/uMkQOABIEkQ)
+
 ---
 
 ## About
